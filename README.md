@@ -5,7 +5,7 @@ Nicolás Gaggion¹, Lucas Mansilla¹, Diego Milone¹, Enzo Ferrante¹
 ¹ Research Institute for Signals, Systems and Computational Intelligence (sinc(i)), FICH-UNL, CONICET, Ciudad Universitaria UNL, Santa Fe, Argentina.
 
 Full-paper accepted at MICCAI 2021. \
-Pre-print available at ...
+Pre-print available at https://arxiv.org/abs/2106.09832
 
 ![workflow](imgs/workflow.png)
 
