@@ -32,11 +32,11 @@ Conda dependencies: \
 -Numpy \
 -Pandas  \
 -Scikit-learn \
--Scikit-image \
+-Scikit-image 
 
 Pip dependencies: \
 -medpy==0.4.0 \
--opencv-python==4.5.4.60 \
+-opencv-python==4.5.4.60 
 
 ### Datasets:
 
