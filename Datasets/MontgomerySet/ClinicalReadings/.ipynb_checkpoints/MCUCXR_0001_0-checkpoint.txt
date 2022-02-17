@@ -1,0 +1,3 @@
+Patient's Sex: F 
+Patient's Age: 027Y
+normal

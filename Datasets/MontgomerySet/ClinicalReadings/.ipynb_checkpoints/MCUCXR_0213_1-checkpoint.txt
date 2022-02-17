@@ -1,0 +1,3 @@
+Patient's Sex: F 
+Patient's Age: 089Y
+inactive scars RML. has completed treatment
