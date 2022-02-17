@@ -44,7 +44,7 @@ Download the datasets from the official sources (check Datasets/readme.txt) and 
 
 ### Paper reproducibility:
 
-All paper figures can be reproduced by running the corresponding Jupyter notebooks.
+Download the weights from here: https://drive.google.com/drive/folders/1YcmT8JzdtNuaWVqhv8Zfm00lF47w0eU5
 
 For more information about the MultiAtlas baseline, check Lucas Mansilla's repository:
 https://github.com/lucasmansilla/Multi-Atlas_RCA
