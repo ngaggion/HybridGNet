@@ -15,7 +15,7 @@ Video presentation: https://www.youtube.com/watch?v=NAJkpf1fk8w
 First create the anaconda environment:
 
 ```
-conda env create -f env.yml
+conda env create -f environment.yml
 ```
 Activate it with:
 ```
