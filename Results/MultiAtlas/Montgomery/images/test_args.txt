@@ -1,0 +1,7 @@
+atlas_size: 5
+fusion_method: voting
+results_dir: /media/lmansilla/Archivos/Proyectos/lbseg-mas/results/TMI/test/Elastix/Montgomery/images
+similarity_metric: mi
+test_images_dir: /media/lmansilla/Archivos/Proyectos/lbseg-mas/data/TMI/Montgomery/Images
+train_images_dir: /media/lmansilla/Archivos/Proyectos/lbseg-mas/data/TMI/JSRT/Train/Images
+train_landmarks_dir: /media/lmansilla/Archivos/Proyectos/lbseg-mas/data/TMI/JSRT/Train/landmarks_txt
