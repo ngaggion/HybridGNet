@@ -1,14 +1,12 @@
-# HybridGNet: Hybrid graph convolutional neural networks for landmark-based anatomical segmentation
+# HybridGNet - Improving anatomically plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray images
 
-Nicolás Gaggion¹, Lucas Mansilla¹, Diego Milone¹, Enzo Ferrante¹
+Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, Enzo Ferrante¹
 
 ¹ Research Institute for Signals, Systems and Computational Intelligence (sinc(i)), FICH-UNL, CONICET, Ciudad Universitaria UNL, Santa Fe, Argentina.
+² Hospital Italiano de Buenos Aires, Buenos Aires, Argentina
+³ Universidad Tecnológica Nacional, Buenos Aires, Argentina
 
-Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-87193-2_57
-
-Video presentation: https://www.youtube.com/watch?v=NAJkpf1fk8w
-
-![workflow](imgs/workflow.png)
+![workflow](imgs/arquitecture.pdf)
 
 ### Installation:
 
@@ -47,4 +45,10 @@ Download the datasets from the official sources (check Datasets/readme.txt) and 
 Download the weights from here: https://drive.google.com/drive/folders/1YcmT8JzdtNuaWVqhv8Zfm00lF47w0eU5
 
 For more information about the MultiAtlas baseline, check Lucas Mansilla's repository:
-https://github.com/lucasmansilla/Multi-Atlas_RCA
+https://github.com/lucasmansilla/multiatlas-landmark
+
+### MICCAI 2021 Paper
+
+For the old version of the code, check on Tags
+
+Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-87193-2_57
