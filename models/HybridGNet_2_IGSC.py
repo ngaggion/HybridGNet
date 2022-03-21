@@ -20,7 +20,7 @@ class EncoderConv(nn.Module):
         
         self.dconv_down1 = residualBlock(1, self.size[0])
         self.dconv_down2 = residualBlock(self.size[0], self.size[1])
-        self.dconv_down3 = residualBlock(self.size[1], self.size[2])
+        self.dconv_down3 = residualBlock(self.size[1], self.size[2])c
         self.dconv_down4 = residualBlock(self.size[2], self.size[3])
         self.dconv_down5 = residualBlock(self.size[3], self.size[4])
         self.dconv_down6 = residualBlock(self.size[4], self.size[4])

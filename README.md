@@ -1,4 +1,4 @@
-# HybridGNet - Improving anatomically plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray images
+# HybridGNet - Improving anatomical plausibility in image segmentation via hybrid graph neural networks: applications to chest x-ray image analysis
 
 Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, Enzo Ferrante¹
 
@@ -7,6 +7,8 @@ Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, E
 ³ Universidad Tecnológica Nacional, Buenos Aires, Argentina
 
 ![workflow](imgs/arquitecture.png)
+
+Source code for: \url{acavaelarxiv.com}
 
 ### Installation:
 
