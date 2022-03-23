@@ -8,6 +8,10 @@ Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, E
 
 ![workflow](imgs/arquitecture.png)
 
+### 2022 Extended version (pre-print)
+
+Arxiv: https://arxiv.org/abs/2203.10977
+
 ### MICCAI 2021 Paper
 
 For the old version of the code, check on Tags
