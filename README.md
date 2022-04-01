@@ -8,9 +8,17 @@ Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, E
 
 ![workflow](imgs/arquitecture.png)
 
-Source code for: \url{acavaelarxiv.com}
+### 2022 Extended version (pre-print)
 
-### Installation:
+Arxiv: https://arxiv.org/abs/2203.10977
+
+### MICCAI 2021 Paper
+
+For the old version of the code, check on Tags
+
+Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-87193-2_57
+
+## Installation:
 
 First create the anaconda environment:
 
@@ -38,19 +46,15 @@ Pip dependencies: \
 -medpy==0.4.0 \
 -opencv-python==4.5.4.60 
 
-### Datasets:
+## Datasets:
 
 Download the datasets from the official sources (check Datasets/readme.txt) and run the corresponding preprocessing scripts.
 
-### Paper reproducibility:
+A new dataset of landmark annotations was released jointly with this work. Available at https://github.com/ngaggion/Chest-xray-landmark-dataset
+
+## Paper reproducibility:
 
 Download the weights from here: https://drive.google.com/drive/folders/1YcmT8JzdtNuaWVqhv8Zfm00lF47w0eU5
 
 For more information about the MultiAtlas baseline, check Lucas Mansilla's repository:
 https://github.com/lucasmansilla/multiatlas-landmark
-
-### MICCAI 2021 Paper
-
-For the old version of the code, check on Tags
-
-Paper: https://link.springer.com/chapter/10.1007%2F978-3-030-87193-2_57
