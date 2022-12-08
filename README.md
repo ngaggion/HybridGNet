@@ -8,9 +8,25 @@ Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, E
 
 ![workflow](imgs/arquitecture.png)
 
-### 2022 Extended version (pre-print)
+### 2022 Journal Version
+
+IEEE TMI: https://doi.org/10.1109%2Ftmi.2022.3224660
 
 Arxiv: https://arxiv.org/abs/2203.10977
+
+Citation: 
+
+```
+@article{Gaggion_2022,
+	doi = {10.1109/tmi.2022.3224660},
+	url = {https://doi.org/10.1109%2Ftmi.2022.3224660},
+	year = 2022,
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	author = {Nicolas Gaggion and Lucas Mansilla and Candelaria Mosquera and Diego H. Milone and Enzo Ferrante},
+	title = {Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis},
+	journal = {{IEEE} Transactions on Medical Imaging}
+}
+```
 
 ### MICCAI 2021 Paper
 
