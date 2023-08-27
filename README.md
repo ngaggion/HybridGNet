@@ -8,6 +8,10 @@ Nicolás Gaggion¹, Lucas Mansilla¹, Candelaria Mosquera²³, Diego Milone¹, E
 
 ![workflow](imgs/arquitecture.png)
 
+### 2023 Open Source Demo available at HuggingFace Spaces!
+
+Find it here! https://huggingface.co/spaces/ngaggion/Chest-x-ray-HybridGNet-Segmentation
+
 ### 2022 Journal Version
 
 IEEE TMI: https://doi.org/10.1109%2Ftmi.2022.3224660
